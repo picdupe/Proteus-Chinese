@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 [![Version](https://img.shields.io/badge/version-9.1%20SP2%20Build%2042460-orange.svg)]()   
-**高质量的 Proteus 汉化包**   
+**高质量的 Proteus 汉化包**
 *让 Proteus 更贴近中文用户！*
 
 ---
